@@ -7,6 +7,9 @@ Demo for tutorial [Crafting a React/Next.js Single Page Application Optimized fo
 📺 YouTube: https://www.youtube.com/watch?v=8BrZeaw3sLQ
 
 ## More tutorials and walkthroughs
-* [Follow me on Twitter](https://twitter.com/colbyfayock)
-* [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
-* [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
+
+🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
+
+📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
