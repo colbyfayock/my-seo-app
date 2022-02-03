@@ -1,6 +1,6 @@
 # Managing SEO Metadata in Next.js
 
-Demo for tutorial [Crafting a React/Next.js Single Page Application Optimized for SEO](https://snipcart.com/blog/react-nextjs-single-page-application-seo)
+Demo for tutorial [Crafting a React/Next.js Single Page Application Optimized for SEO](https://www.youtube.com/watch?v=8BrZeaw3sLQ)
 
 📝 Article: https://snipcart.com/blog/react-nextjs-single-page-application-seo
 
